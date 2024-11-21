@@ -17,5 +17,5 @@ To get started with QuickNotes, follow the steps below:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <[repository-url](https://github.com/mahdiabqari/QuickNotes-Notes-Reminders)>
+   git clone https://github.com/mahdiabqari/QuickNotes-Notes-Reminders
    cd QuickNotes
